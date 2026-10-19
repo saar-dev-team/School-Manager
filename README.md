@@ -1,1 +1,1 @@
-# school_manager
+# School_manager
