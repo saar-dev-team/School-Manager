@@ -1,1 +1,16 @@
+login/create acount --> when a student write command 1 in dictionary:
+	{username:link_google_drive}
 
+
+
+
+
+#school automation homework uplading commands (AssignmentHub)
+
+
+student commands:
+	AHub -new link"*"      *discription: type a google drive link
+
+
+teachers commands:
+	AHub -dl username"*" link"*"       *discription: type a google drive link, add username
